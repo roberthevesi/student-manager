@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a64dc075-5273-4d46-98fb-cc5189cbd94b" name="Changes" comment="" />
+    <list default="true" id="a64dc075-5273-4d46-98fb-cc5189cbd94b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManager.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="80c82263-69b5-4686-ae83-f6b2be85bfa5" />
+        <option name="url" value="https://github.com/roberthevesi/student-manager/" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="26oy9pUq6xy79jHMBlGWqaMb1If" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648104086860</updated>
       <workItem from="1648104089229" duration="65000" />
+      <workItem from="1648562928755" duration="274000" />
     </task>
     <servers />
   </component>
@@ -55,5 +67,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
